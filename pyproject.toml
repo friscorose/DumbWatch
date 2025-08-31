@@ -1,0 +1,16 @@
+[project]
+name = "dumbwatch"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "textual-englyph>=0.5.4",
+]
+
+[project.scripts]
+dumbwatch = "dumbwatch:dw_main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
