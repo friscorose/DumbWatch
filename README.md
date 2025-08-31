@@ -38,10 +38,9 @@ The interface captures the classic digital watch experience with modern TUI styl
 uvx --from git+https://github.com/friscorose/dumbwatch dumbwatch
 ```
 
-```sh
-uv tool install --from git+https://github.com/friscorose/dumbwatch dumbwatch
-```
+or make it local
 
 ```sh
+uv tool install --from git+https://github.com/friscorose/dumbwatch dumbwatch
 dumbwatch
 ```
