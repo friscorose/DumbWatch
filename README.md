@@ -1,5 +1,7 @@
-a digital clock application that mimics traditional digital watch controls using Textual and EnGlyph for the display. Here are the key features:
+A digital clock application that mimics traditional digital watch controls using Textual and EnGlyph for the display. Here are the key features:
 Digital Clock Features
+
+![Screenshot](./DumbWatch.png)
 
 Display Modes:
 
