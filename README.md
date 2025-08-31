@@ -34,4 +34,14 @@ Setting Operations:
 
 The interface captures the classic digital watch experience with modern TUI styling. The EnGlyph integration provides crisp, scalable text that resembles traditional LCD displays, while the button controls work exactly like those physical watch buttons we all remember!
 
-```uvx --from git+https://github.com/friscorose/dumbwatch dumbwatch```
+```sh
+uvx --from git+https://github.com/friscorose/dumbwatch dumbwatch
+```
+
+```sh
+uv tool install --from git+https://github.com/friscorose/dumbwatch dumbwatch
+```
+
+```sh
+dumbwatch
+```
